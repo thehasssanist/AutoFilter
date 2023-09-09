@@ -1,0 +1,17 @@
+[general]
+name=AutoFilter
+qgisMinimumVersion=3.0
+description=Filter All Layers By Specific Value. 
+version=1.2
+author=Hasan Sami
+email=hasami@earthlink.iq
+about=Due to the large number of layers and the lack of experience in performing the filtering for a specific layer, which greatly delays the work, all you have to do now is to write the specific value, and the plugin will filter all the layers for you.
+hasProcessingProvider=no
+tags=python
+category=Vector
+icon=icon.png
+experimental=True
+deprecated=False
+Category of the plugin: Raster, Vector, Database or Web
+server=False
+
